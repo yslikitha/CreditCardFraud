@@ -1,1 +1,1 @@
-# CreditcCardcFraud Detection
+# Credit Card Fraud Detection
